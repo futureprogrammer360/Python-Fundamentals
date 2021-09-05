@@ -1,0 +1,7 @@
+{
+    "firstName": "Future",
+    "lastName": "Programmer",
+    "hobbies": ["programming", "photography", "traveling"],
+    "age": 15,
+    "likes_python": true
+}

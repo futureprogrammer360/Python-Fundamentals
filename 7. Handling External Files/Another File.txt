@@ -1,0 +1,2 @@
+New content that replaced the old content.
+New content that is appended to the old content.

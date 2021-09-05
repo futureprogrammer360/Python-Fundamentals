@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question": "What is 1 + 1?",
+        "choices": [1, 2, 3, 4],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "question": "What is the fastest land animal?",
+        "choices": ["cheetah", "leopard", "lion", "tiger"],
+        "answer": "cheetah"
+    },
+    {
+        "id": 3,
+        "question": "Which metal is heavier between gold and silver?",
+        "choices": ["gold", "silver"],
+        "answer": "gold"
+    },
+    {
+        "id": 4,
+        "question": "What is the smallest among the world's oceans?",
+        "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Arctic Ocean"
+    }
+]
